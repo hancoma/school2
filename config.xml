@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.school.anyphoto" version="1.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>school</name>
+<widget id="com.school2.anyphoto" version="1.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>school2</name>
     <description>
-       school
+       school2
     </description>
     <author email="ch7@daum.net" href="http://m.gallerybear.com">
-        school
+        school2
     </author>
     <content src="index.html" />
     
